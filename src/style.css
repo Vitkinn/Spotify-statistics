@@ -1,0 +1,19 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgb(124, 124, 124);
+    color: whitesmoke;
+}
+
+header {
+    text-align: center;
+    background-color: rgb(36, 36, 36);
+    color: whitesmoke;
+    padding: 1em;
+}
+
+.categories {
+    height: 100px;
+}
