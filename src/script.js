@@ -1,5 +1,5 @@
-const clientId = '49d02cafb277423e8cbee4e3b37202b1';
-const clientSecret = 'e3a5b9e6378549c399a3ea576065aa99';
+const clientId = 'Your client id here'; //https://developer.spotify.com/dashboard/
+const clientSecret = 'Your client secret here';
 let selectedCardName;
 let selectedPlaylistName;
 
