@@ -1,2 +1,2 @@
 # Spotify-data
-Spotify data api project.
+## A simple project to train the use the Web API from Spotify.
